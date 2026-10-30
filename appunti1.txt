@@ -1,0 +1,5 @@
+Lezione 1 GitHub
+
+- Ho creato un repository
+- Ho modificato un README
+- Ho fatto il mio primo commit
